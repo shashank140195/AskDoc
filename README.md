@@ -10,3 +10,11 @@ Results: Half of the posts didn’t receive comments from peers or physicians. A
 
 Conclusion. Beyond the confines of clinics and hospitals, social media could bring patients and providers closer together however as observed current physicians’ participation is low as compared to posters. 
 
+
+We analyze the following topics in this paper:
+1.	What is the number of self-reported demographics (gender/sex, Race/Ethnicity, and age)? This analysis could answer a few questions such as why some people report demographics and what are the reasons others don’t. Do people from certain demographics feel that disclosing their demographics could lead to fewer or more responses from physicians and other users and would not get proper health advice?
+
+2.	Analysis of the comments by users and physicians received on the posts of people with various demographics. This analysis is done to study the response by the physicians and other users that how they engage with posters with various demographic groups. This study could determine if users’ or physicians’ response to the post depends on the posters’ demographics.
+  
+3.	Posters Engagement with the users and the physicians on the AskDoc subreddit. Engagement is defined as an OP’s interaction or replies to at least one of the non-OP comments on the post. This analysis could help us to observe how people with certain demographics interact with other users who responded to their posts. It could help us to study the relationship between the poster’s engagement and the number of responses received. For example, if the poster does not engage in the discussion, it is likely to receive less response from other users as compared to the poster that engages more.
+
